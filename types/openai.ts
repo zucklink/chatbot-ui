@@ -12,8 +12,8 @@ export enum OpenAIModelID {
   GPT_3_5_AZ = 'gpt-35-turbo',
   GPT_4 = 'gpt-4',
   GPT_4_32K = 'gpt-4-32k',
-  LLAMA_2_7B = 'llama-2-7b',
-  LLAMA_2_13B = 'llama-2-13b',
+  LLAMA_2_7B = 'llama-2-7b-chat',
+  LLAMA_2_13B = 'llama-2-13b-chat',
   ORCA_2_13B = 'orca-2-13b',
 }
 
